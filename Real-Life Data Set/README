@@ -1,1 +1,9 @@
-To do...
+This is the data set MedellinVending262
+
+Nodes' information is in file "MedellinVending262_clients." It includes Name of node (N), Service time (S), Number of visits (Visits), Demand, opening of time window (OpenTW), closing of time window (CloseTW), and maximum stand-by time allowed /StandBy)
+
+Parameter t can be found in file "MedellinVending262_t."
+
+Consider 22 vehicles with the capacity to attend 12 vending machines and 45 vehicles with the capacity to attend 16 vending machines.
+
+Lastly, depots' capacity (nodes 0 and 1) are 550 vending machines each.
