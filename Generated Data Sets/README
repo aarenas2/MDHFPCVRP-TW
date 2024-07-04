@@ -1,1 +1,13 @@
-To do
+This is the data set generator for smaller instances
+
+File "inst_guide" has the guidelines to generate the data sets. 
+  - In the ID of the dataset the first number corresponds to the number of visits, the letter to the clients' distribution, and the last number to the number of experiment.
+  - Seed is the used seed in the python file "Data_set_generator."
+  - www is the size of the problem used in the python file "Data_set_generator."
+  - d, b, and s have the value of one depending on the clients' distribution used in the python file "Data_set_generator."
+  - BestSol4IF, GAP(%)4IF, and Time(s)4IF present the results obtained with the 4IF.
+  - BestSol3IF, GAP(%)3IF, and Time(s)3IF present the results obtained with the 3IF.
+
+File "Data_set_generator" generates the data set with parameters www, d, b, and s.
+
+The other two files are support for "Data_set_generator."
